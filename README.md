@@ -19,7 +19,7 @@
 - 每一台各自記住自己的音量。
 - 按星星把電台加到最愛，在「最愛」分頁直接點選播放。
 - 顯示電台 LOGO；播放時卡帶播放器會飄出音符。
-- 搭配聯機模組「深空串门 | Probably Multiplayer」：拜訪同樣有裝本模組的玩家時，聽得到對方店裡正在放的電台。
+- 搭配聯機模組「[深空串门：可能是联机的 | Probably Multiplayer](https://steamcommunity.com/sharedfiles/filedetails/?id=3828909239)」：拜訪同樣有裝本模組的玩家時，聽得到對方店裡正在放的電台。
 
 **下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830589099)
 
@@ -37,6 +37,7 @@
 <img src="images/frequency_radio/07.png" alt="預覽 7" width="450">
 <img src="images/frequency_radio/08.png" alt="預覽 8" width="450">
 <img src="images/frequency_radio/09.png" alt="預覽 9" width="450">
+<img src="images/frequency_radio/10.png" alt="預覽 10：拜訪有裝本模組的玩家，聽得到對方店裡的電台" width="450">
 
 </details>
 
