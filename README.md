@@ -21,7 +21,7 @@
 - 每一台各自記住自己的音量；自動音量平衡（預設開啟）會把小聲和大聲的台調到差不多。
 - 按星星把電台加到最愛，在「最愛」分頁直接點選播放。
 - 韓文、希臘文、泰文等遊戲字型沒有的台名，用 Windows 內建字型顯示。
-- 播放時卡帶播放器會飄出音符。
+- 播放時卡帶播放器會飄出音符（可在模組設定關閉）。
 - 搭配聯機模組「[深空串门：可能是联机的 | Probably Multiplayer](https://steamcommunity.com/sharedfiles/filedetails/?id=3828909239)」：拜訪同樣有裝本模組的玩家時，聽得到對方店裡正在放的電台。
 
 **下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830589099)
