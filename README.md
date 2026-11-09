@@ -27,7 +27,7 @@
 - 自動平衡、統一音量、統一緩衝、播放飄音可以直接在卡帶播放器上切換，也可以在模組設定調整。
 - 搭配聯機模組「[深空串门：可能是联机的 | Probably Multiplayer](https://steamcommunity.com/sharedfiles/filedetails/?id=3828909239)」：拜訪同樣有裝本模組的玩家時，聽得到對方店裡正在放的電台。
 
-**下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830589099)
+**下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830589099)　｜　[更新紀錄](CHANGELOG.md#frequency-radio黑洞頻率電台)
 
 啟用時遊戲會顯示權限警告：網路（收聽電台）、外部反射（搭配聯機模組）。
 
@@ -60,7 +60,7 @@
 - 牆上螢幕的掃描線效果可以開關（分頁旁的「掃描線」或模組設定）。
 - 影片音量用 YouTube 播放器的音量調整。
 
-**下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3836903387)
+**下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3836903387)　｜　[更新紀錄](CHANGELOG.md#frequency-tv黑洞頻率電視)
 
 啟用時遊戲會顯示權限警告：網路（觀看 YouTube）、Steam（使用 Steam 內建的瀏覽器播放）。
 
