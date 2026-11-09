@@ -60,7 +60,7 @@
 
 **下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3836903387)　｜　[更新紀錄](CHANGELOG.md#frequency-tv黑洞頻率電視)
 
-啟用時遊戲會顯示權限警告：網路（觀看 YouTube）、Steam（使用 Steam 內建的瀏覽器播放）。
+啟用時遊戲會顯示權限警告：Steam（使用 Steam 內建的瀏覽器播放）。
 
 <details>
 <summary>內容預覽</summary>
