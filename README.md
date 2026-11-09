@@ -51,12 +51,13 @@
 
 極光造成的時空交錯，讓你所在的現實世界的影像訊號，接進了你的店。
 
-- 打開「查看日曆」，日曆／夜間報告／狀態旁邊多一個「YouTube」分頁：在遊戲裡直接看 YouTube，原畫質播放。
+- 打開「查看日曆」，日曆／夜間報告／狀態旁邊多一個「電視」分頁：在遊戲裡直接看影片網站，原畫質播放。
+- 右上角的網站選單可以切換 17 個影片網站：YouTube、bilibili、ニコニコ、Twitch、Dailymotion、Vimeo、VK Видео、RUTUBE、CDA、ARD Mediathek、ZDF、RTVE Play、TVer、ABEMA、優酷、愛奇藝、動畫瘋（預設 YouTube；部分網站只開放當地網路收看，或要登入才能看高畫質）。
 - 用滑鼠點選、捲動；滑鼠移到畫面上就能打字搜尋（支援中文輸入法）。
-- 分頁旁的小按鈕：上一頁、首頁、暫停。
-- 在 YouTube 分頁關掉日曆，影片繼續播，牆上的日曆螢幕變成小電視；點螢幕回到 YouTube 分頁。
+- 分頁旁的小按鈕：上一頁、首頁（目前的網站）、暫停。
+- 在電視分頁關掉日曆，影片繼續播，牆上的日曆螢幕變成小電視；點螢幕回到電視分頁。
 - 牆上螢幕的掃描線效果可以開關（分頁旁的「掃描線」或模組設定）。
-- 影片音量用 YouTube 播放器的音量調整。
+- 影片音量用網站播放器的音量調整。
 
 **下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3836903387)　｜　[更新紀錄](CHANGELOG.md#frequency-tv黑洞頻率電視)
 
@@ -65,10 +66,15 @@
 <details>
 <summary>內容預覽</summary>
 
-<img src="images/frequency_tv/01.jpg" alt="預覽 1：日曆裡的 YouTube 分頁" width="450">
+<img src="images/frequency_tv/01.jpg" alt="預覽 1：日曆裡的電視分頁" width="450">
 <img src="images/frequency_tv/02.jpg" alt="預覽 2：在遊戲裡播放影片" width="450">
 <img src="images/frequency_tv/03.jpg" alt="預覽 3：關掉日曆後，牆上的螢幕繼續播" width="450">
 <img src="images/frequency_tv/04.jpg" alt="預覽 4：牆上螢幕的掃描線效果" width="450">
+<img src="images/frequency_tv/05.jpg" alt="預覽 5：電視分頁的網站選單" width="450">
+<img src="images/frequency_tv/06.jpg" alt="預覽 6：bilibili" width="450">
+<img src="images/frequency_tv/07.jpg" alt="預覽 7：Twitch 直播" width="450">
+<img src="images/frequency_tv/08.jpg" alt="預覽 8：動畫瘋" width="450">
+<img src="images/frequency_tv/09.jpg" alt="預覽 9：VK Видео" width="450">
 
 </details>
 

@@ -9,6 +9,12 @@
 
 ## Frequency TV（黑洞頻率電視）
 
+### v0.2.0（2026-11-10）
+
+- 「YouTube」分頁改名「電視」。
+- 右上角新增網站選單，可以切換 17 個影片網站：YouTube、bilibili、ニコニコ、Twitch、Dailymotion、Vimeo、VK Видео、RUTUBE、CDA、ARD Mediathek、ZDF、RTVE Play、TVer、ABEMA、優酷、愛奇藝、動畫瘋（預設 YouTube）。部分網站只開放當地網路收看，或要登入才能看高畫質。
+- 「首頁」回到目前選的網站。
+
 ### v0.1.1（2026-11-10）
 
 - 拿掉用不到的網路權限：啟用時只剩 Steam 一項權限。
