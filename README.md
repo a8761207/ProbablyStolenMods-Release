@@ -64,6 +64,16 @@
 
 啟用時遊戲會顯示權限警告：網路（觀看 YouTube）、Steam（使用 Steam 內建的瀏覽器播放）。
 
+<details>
+<summary>內容預覽</summary>
+
+<img src="images/frequency_tv/01.jpg" alt="預覽 1：日曆裡的 YouTube 分頁" width="450">
+<img src="images/frequency_tv/02.jpg" alt="預覽 2：在遊戲裡播放影片" width="450">
+<img src="images/frequency_tv/03.jpg" alt="預覽 3：關掉日曆後，牆上的螢幕繼續播" width="450">
+<img src="images/frequency_tv/04.jpg" alt="預覽 4：牆上螢幕的掃描線效果" width="450">
+
+</details>
+
 ## 安裝
 
 在模組的 Steam 工作坊頁面按「訂閱」→ 開遊戲 → 主選單「Mods」啟用 → 重開遊戲。
