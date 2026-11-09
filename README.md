@@ -12,6 +12,8 @@
 
 <img src="images/frequency_radio/preview.png" alt="Frequency Radio（黑洞頻率電台）" width="450">
 
+極光造成的時空交錯，讓 2026 年的廣播訊號接進了你的店。
+
 卡帶播放器多一個「電台」分頁：卡帶／電台切換，選國家/地區、選電台，收聽真實的網路廣播。卡帶和電台同時只會播一個。
 
 - 收錄 70 個國家/地區、35,512 台：音樂台、新聞台，以及動漫 / J-pop / K-pop / Vocaloid 網路電台，有類型標示（Pop、JPop、KPop、Anime、News…）。
@@ -45,11 +47,26 @@
 
 </details>
 
+### Frequency TV（黑洞頻率電視）
+
+<img src="images/frequency_tv/preview.png" alt="Frequency TV（黑洞頻率電視）" width="450">
+
+極光造成的時空交錯，讓 2026 年的影像訊號接進了你的店。
+
+- 打開「查看日曆」，日曆／夜間報告／狀態旁邊多一個「YouTube」分頁：在遊戲裡直接看 YouTube，原畫質播放。
+- 用滑鼠點選、捲動；滑鼠移到畫面上就能打字搜尋（支援中文輸入法）。
+- 分頁旁的小按鈕：上一頁、首頁、暫停。
+- 在 YouTube 分頁關掉日曆，影片繼續播，牆上的日曆螢幕變成小電視；點螢幕回到 YouTube 分頁。
+- 牆上螢幕的掃描線效果可以開關（分頁旁的「掃描線」或模組設定）。
+- 影片音量用 YouTube 播放器的音量調整。
+
+**下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3836903387)
+
+啟用時遊戲會顯示權限警告：網路（觀看 YouTube）、Steam（使用 Steam 內建的瀏覽器播放）。
+
 ## 安裝
 
-- **Steam 工作坊（推薦）**：在模組的工作坊頁面按「訂閱」→ 開遊戲 → 主選單「Mods」啟用 → 重開遊戲。
-- **手動安裝**：到 [Releases](https://github.com/a8761207/ProbablyStolenMods-Release/releases) 下載模組的 zip，
-  解壓縮到遊戲資料夾的 `Mods\`（例：`Mods\pat.frequency_radio\`）→ 開遊戲 → 主選單「Mods」啟用 → 重開遊戲。
+在模組的 Steam 工作坊頁面按「訂閱」→ 開遊戲 → 主選單「Mods」啟用 → 重開遊戲。
 
 ---
 
