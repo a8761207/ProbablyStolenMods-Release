@@ -25,11 +25,10 @@
 - 韓文、希臘文、泰文等遊戲字型沒有的台名，用 Windows 內建字型顯示。
 - 播放時卡帶播放器會飄出音符。
 - 自動平衡、統一音量、統一緩衝、播放飄音可以直接在卡帶播放器上切換，也可以在模組設定調整。
-- 搭配聯機模組「[深空串门：可能是联机的 | Probably Multiplayer](https://steamcommunity.com/sharedfiles/filedetails/?id=3828909239)」：拜訪同樣有裝本模組的玩家時，聽得到對方店裡正在放的電台。
 
 **下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3830589099)　｜　[更新紀錄](CHANGELOG.md#frequency-radio黑洞頻率電台)
 
-啟用時遊戲會顯示權限警告：網路（收聽電台）、外部反射（搭配聯機模組）。
+啟用時遊戲會顯示權限警告：網路（收聽電台）。
 
 <details>
 <summary>內容預覽</summary>
@@ -43,7 +42,6 @@
 <img src="images/frequency_radio/07.png" alt="預覽 7" width="450">
 <img src="images/frequency_radio/08.png" alt="預覽 8" width="450">
 <img src="images/frequency_radio/09.png" alt="預覽 9" width="450">
-<img src="images/frequency_radio/10.png" alt="預覽 10：拜訪有裝本模組的玩家，聽得到對方店裡的電台" width="450">
 
 </details>
 
