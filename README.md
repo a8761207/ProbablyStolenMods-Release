@@ -32,18 +32,15 @@
 
 啟用時遊戲會顯示權限警告：網路（收聽電台）、Steam（經官網播放的電台使用 Steam 內建的瀏覽器）。
 
-<details>
+<details open>
 <summary>內容預覽</summary>
 
-<img src="images/frequency_radio/01.png" alt="預覽 1" width="450">
-<img src="images/frequency_radio/02.png" alt="預覽 2" width="450">
-<img src="images/frequency_radio/03.png" alt="預覽 3" width="450">
-<img src="images/frequency_radio/04.png" alt="預覽 4" width="450">
-<img src="images/frequency_radio/05.png" alt="預覽 5" width="450">
-<img src="images/frequency_radio/06.png" alt="預覽 6" width="450">
-<img src="images/frequency_radio/07.png" alt="預覽 7" width="450">
-<img src="images/frequency_radio/08.png" alt="預覽 8" width="450">
-<img src="images/frequency_radio/09.png" alt="預覽 9" width="450">
+<img src="images/frequency_radio/01.png" alt="預覽 1：卡帶播放器的電台分頁" width="450">
+<img src="images/frequency_radio/02.png" alt="預覽 2：選電台" width="450">
+<img src="images/frequency_radio/03.png" alt="預覽 3：選國家/地區：離你近的排前面" width="450">
+<img src="images/frequency_radio/04.png" alt="預覽 4：選國家/地區（第 2 頁）" width="450">
+<img src="images/frequency_radio/05.png" alt="預覽 5：經官網播放的電台" width="450">
+<img src="images/frequency_radio/06.png" alt="預覽 6：經官網播放的電台（第 2 頁）" width="450">
 
 </details>
 
@@ -68,7 +65,7 @@
 
 啟用時遊戲會顯示權限警告：Steam（使用 Steam 內建的瀏覽器播放）。
 
-<details>
+<details open>
 <summary>內容預覽</summary>
 
 <img src="images/frequency_tv/01.jpg" alt="預覽 1：日曆裡的電視分頁" width="450">
