@@ -34,6 +34,9 @@
 
 啟用時遊戲會顯示權限警告：網路（收聽電台）、Steam（經官網播放的電台使用 Steam 內建的瀏覽器）。
 
+**掃毒報告（v0.9.4）**：[VirusTotal 0/71](https://www.virustotal.com/gui/file/2d216a68579f73ad59e7e3168dbaf34a4b33d811aa9b6be56255c9ee6c84a08b)（沒有防毒引擎標記）；Windows Defender 手動掃描未發現威脅。
+模組裡只有一個程式檔 `PAT.FrequencyRadio.dll`，其餘都是圖片和文字資料。SHA256：`2d216a68579f73ad59e7e3168dbaf34a4b33d811aa9b6be56255c9ee6c84a08b`（訂閱後可以用 PowerShell 的 `Get-FileHash` 比對）。
+
 <details open>
 <summary>內容預覽</summary>
 
@@ -68,6 +71,9 @@
 **下載**：[Steam 工作坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3836903387)　｜　[更新紀錄](CHANGELOG.md#frequency-tv黑洞頻率電視)
 
 啟用時遊戲會顯示權限警告：Steam（使用 Steam 內建的瀏覽器播放）。
+
+**掃毒報告（v0.5.2）**：[VirusTotal 0/71](https://www.virustotal.com/gui/file/424ebf32ed9cbe4fc9deeb498d0dbf2ac7072df7a69f4d66dcedacbb21dece4e)（沒有防毒引擎標記）；Windows Defender 手動掃描未發現威脅。
+模組裡只有一個程式檔 `PAT.FrequencyTV.dll`，其餘都是圖片和文字資料。SHA256：`424ebf32ed9cbe4fc9deeb498d0dbf2ac7072df7a69f4d66dcedacbb21dece4e`（訂閱後可以用 PowerShell 的 `Get-FileHash` 比對）。
 
 <details open>
 <summary>內容預覽</summary>
