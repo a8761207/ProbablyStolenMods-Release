@@ -72,8 +72,8 @@
 
 啟用時遊戲會顯示權限警告：Steam（使用 Steam 內建的瀏覽器播放）。
 
-**掃毒報告（v0.5.2）**：[VirusTotal 0/71](https://www.virustotal.com/gui/file/424ebf32ed9cbe4fc9deeb498d0dbf2ac7072df7a69f4d66dcedacbb21dece4e)（沒有防毒引擎標記）；Windows Defender 手動掃描未發現威脅。
-模組裡只有一個程式檔 `PAT.FrequencyTV.dll`，其餘都是圖片和文字資料。SHA256：`424ebf32ed9cbe4fc9deeb498d0dbf2ac7072df7a69f4d66dcedacbb21dece4e`（訂閱後可以用 PowerShell 的 `Get-FileHash` 比對）。
+**掃毒報告（v0.5.3）**：[VirusTotal 0/70](https://www.virustotal.com/gui/file/24d7b25666a9a4b8363948f533044ba0be666a35a968a459d9198d7a38703f1d)（沒有防毒引擎標記）；Windows Defender 手動掃描未發現威脅。
+模組裡只有一個程式檔 `PAT.FrequencyTV.dll`，其餘都是圖片和文字資料。SHA256：`24d7b25666a9a4b8363948f533044ba0be666a35a968a459d9198d7a38703f1d`（訂閱後可以用 PowerShell 的 `Get-FileHash` 比對）。
 
 <details open>
 <summary>內容預覽</summary>
