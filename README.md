@@ -16,7 +16,7 @@
 
 卡帶播放器多一個「電台」分頁：卡帶／電台切換，選國家/地區、選電台，收聽真實的網路廣播。卡帶和電台同時只會播一個。
 
-- 收錄 70 個國家/地區、35,270 台：音樂台、新聞台，以及動漫 / J-pop / K-pop / Vocaloid 網路電台，有類型標示（Pop、JPop、KPop、Anime、News…）。
+- 收錄 70 個國家/地區、36,178 台：音樂台、新聞台，以及動漫 / J-pop / K-pop / Vocaloid 網路電台，有類型標示（Pop、JPop、KPop、Anime、News…）。
 - 選台：先選國家/地區，台數多的再選州／省（加州、巴伐利亞、浙江…，中文介面顯示中文地名），再選電台；離你最近的國家/地區排在前面。
 - 搜尋：輸入台名、類型或國家/地區，所有國家/地區的電台一起找，點一下就播。
 - 有些電台只開放在官網收聽：選台後模組會在背景打開官網並幫你按下播放（標示「經官網播放」）；自動播放不成功時會打開官網畫面，讓你自己按播放。
@@ -34,8 +34,8 @@
 
 啟用時遊戲會顯示權限警告：網路（收聽電台）、Steam（經官網播放的電台使用 Steam 內建的瀏覽器）。
 
-**掃毒報告（v0.9.4）**：[VirusTotal 0/71](https://www.virustotal.com/gui/file/2d216a68579f73ad59e7e3168dbaf34a4b33d811aa9b6be56255c9ee6c84a08b)（沒有防毒引擎標記）；Windows Defender 手動掃描未發現威脅。
-模組裡只有一個程式檔 `PAT.FrequencyRadio.dll`，其餘都是圖片和文字資料。SHA256：`2d216a68579f73ad59e7e3168dbaf34a4b33d811aa9b6be56255c9ee6c84a08b`（訂閱後可以用 PowerShell 的 `Get-FileHash` 比對）。
+**掃毒報告（v0.9.5）**：[VirusTotal 0/71](https://www.virustotal.com/gui/file/40dda65e73843d45eb6744d750c0ba768d7548ff18366ebdd205c95298338ef4)（沒有防毒引擎標記）；Windows Defender 手動掃描未發現威脅。
+模組裡只有一個程式檔 `PAT.FrequencyRadio.dll`，其餘都是圖片和文字資料。SHA256：`40dda65e73843d45eb6744d750c0ba768d7548ff18366ebdd205c95298338ef4`（訂閱後可以用 PowerShell 的 `Get-FileHash` 比對）。
 
 <details open>
 <summary>內容預覽</summary>
